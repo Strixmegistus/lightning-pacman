@@ -1,7 +1,5 @@
 ## Lnd arcade game
 
-Live example: https://www.lightningpacman.com
-
 By utilising the Bitcoin Lightning network, NodeJS, Socket.io, one can "send" payments to a browser-based game... much like dropping
 a quarter into an arcade cabinet. This, of course, could work with any javascript app running in a browser.
 
